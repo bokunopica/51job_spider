@@ -1,0 +1,3 @@
+# 51job_spider
+spider for 51job_Data_analyst
+爬的内容是前程无忧上全国的数据分析师的招聘信息
